@@ -1,0 +1,12 @@
+# Secrets and Environments
+.env
+serviceAccountKey.json
+
+# Python and Virtual Environments
+venv/
+__pycache__/
+*.pyc
+
+# Data and Logs
+debug_frames/
+faces_db/
